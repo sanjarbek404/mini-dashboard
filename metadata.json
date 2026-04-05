@@ -1,0 +1,5 @@
+{
+  "name": "Mini Dashboard",
+  "description": "A static mini dashboard with stats, charts, and a table.",
+  "requestFramePermissions": []
+}
